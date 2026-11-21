@@ -30,3 +30,6 @@ default = []
 opt-level = 3
 lto = true
 codegen-units = 1
+
+[dependencies.sigmaos-runtime-support]
+git = "https://github.com/AaryanSinghChauhan09/SigmaOS-runtime-support"
